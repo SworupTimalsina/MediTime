@@ -1,5 +1,5 @@
 import React from 'react'
-const Login = () => {
+const MyAppointments = () => {
     return (
         <div>
 
@@ -7,4 +7,4 @@ const Login = () => {
     )
 }
 
-export default Login
+export default MyAppointments
