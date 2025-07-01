@@ -7,9 +7,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#000B60", 
-        secondary: "5F6FFF"
+        secondary: "#000B60", 
+        primary: "#6270fd",
     },
+    gridTemplateColumns:{
+      'auto':'repeat(auto-fill, minmax(200px,1fr))'
+    }
   },
 },
   plugins: [],
