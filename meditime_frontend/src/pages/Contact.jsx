@@ -16,7 +16,7 @@ const Contact = () => {
         <p className='text-gray-500'>Tel:9849918515 <br /> Email: meditime@gmail.com</p>
         <p className='flex flex-col justify-center items-start gap-6'>CAREER AT MEDITIME</p>
         <p className='text-gray-500'>Learn more about our teams and job openings.</p>
-        <button className='border border-black px-8 px-4 text-sm hover:bg-black hover:text-white transition-all duration-500' >Explore Jobs</button>
+        <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500' >Explore Jobs</button>
       </div>
       </div>
       
